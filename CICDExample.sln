@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICDExample", "CICDExample\CICDExample.csproj", "{24F94D0A-7808-4291-BA43-710D74EC2116}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICDExample", "CICDExample.csproj", "{24F94D0A-7808-4291-BA43-710D74EC2116}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

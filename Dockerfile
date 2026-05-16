@@ -23,5 +23,6 @@ COPY --from=build /out .
 
 # Exponer puerto
 EXPOSE 8080
+
 # Comando de inicio
 ENTRYPOINT ["dotnet", "CICDExample.dll"]
