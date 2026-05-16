@@ -50,7 +50,7 @@ jobs:
       - name: Deploy to VPS
         uses: appleboy/ssh-action@v0.1.9
         with:
-          host: 204.168.214.142
+          host: 204.168.211.73
           username: root
           key: ${{ secrets.SSH_KEY }}
           port: 22
